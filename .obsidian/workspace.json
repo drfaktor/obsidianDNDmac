@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
+                "file": "Campaigns/Lost Mine of Phandelver/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lost Mine of Phandelver"
+              "title": "Overview"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
+                "file": "Campaigns/Lost Mine of Phandelver/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lost Mine of Phandelver"
+              "title": "Backlinks for Overview"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
+                "file": "Campaigns/Lost Mine of Phandelver/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lost Mine of Phandelver"
+              "title": "Outgoing links from Overview"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
+                "file": "Campaigns/Lost Mine of Phandelver/Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lost Mine of Phandelver"
+              "title": "Outline of Overview"
             }
           },
           {
@@ -181,15 +181,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa7fe504b1c9a686",
+  "active": "502dec35e1916772",
   "lastOpenFiles": [
+    "z_Assets/z_Templates",
+    "z_Assets/z_Attachments",
+    "Campaigns/Lost Mine of Phandelver/World/Quests and Questions.md",
+    "Campaigns/Lost Mine of Phandelver/Overview.md",
+    "Campaigns/Lost Mine of Phandelver/World/Encountered Locations.md",
     "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
-    "Campaigns/Lost Mine of Phandelver/Untitled.md",
+    "Campaigns/Lost Mine of Phandelver/World/Visited Locations",
+    "Campaigns/Lost Mine of Phandelver/World/Regional Maps",
+    "Campaigns/Lost Mine of Phandelver/World/Lore/General",
+    "Campaigns/Lost Mine of Phandelver/World/Lore/Discovered/General",
+    "Campaigns/Lost Mine of Phandelver/World/Lore/Discovered",
+    "Campaigns/Lost Mine of Phandelver/World/Lore",
+    "Campaigns/Lost Mine of Phandelver/World/Encountered Races",
+    "Campaigns/Lost Mine of Phandelver/World/Untitled.canvas",
+    "Campaigns/Lost Mine of Phandelver/World/Encountered NPCs",
+    "Campaigns/Lost Mine of Phandelver/World",
     "faszom.md",
-    "Campaigns/Lost Mine of Phandelver",
-    "z_Resources",
-    "z_Assets",
-    "Campaigns",
     "Hello Git.md"
   ]
 }
