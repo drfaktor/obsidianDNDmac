@@ -11,10 +11,14 @@
             "id": "aa7fe504b1c9a686",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lost Mine of Phandelver"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Lost Mine of Phandelver"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Lost Mine of Phandelver"
             }
           },
           {
@@ -136,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "faszom.md",
+                "file": "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of faszom"
+              "title": "Outline of Lost Mine of Phandelver"
             }
           },
           {
@@ -171,16 +177,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "502dec35e1916772",
+  "active": "aa7fe504b1c9a686",
   "lastOpenFiles": [
+    "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
+    "Campaigns/Lost Mine of Phandelver/Untitled.md",
+    "faszom.md",
     "Campaigns/Lost Mine of Phandelver",
     "z_Resources",
     "z_Assets",
     "Campaigns",
-    "faszom.md",
     "Hello Git.md"
   ]
 }
