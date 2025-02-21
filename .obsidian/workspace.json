@@ -136,12 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "faszom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of faszom"
             }
           },
           {
@@ -173,8 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa7fe504b1c9a686",
+  "active": "502dec35e1916772",
   "lastOpenFiles": [
+    "Campaigns/Lost Mine of Phandelver",
+    "z_Resources",
+    "z_Assets",
+    "Campaigns",
     "faszom.md",
     "Hello Git.md"
   ]
