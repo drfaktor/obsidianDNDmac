@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
-                "mode": "preview",
+                "file": "z_Assets/z_Templates/template_encounteredNPC.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lost Mine of Phandelver"
+              "title": "template_encounteredNPC"
             }
           }
         ]
@@ -196,15 +196,15 @@
   },
   "active": "cc0b5f6708c45bb1",
   "lastOpenFiles": [
-    "z_Assets/z_Attachments/imgaes/placeholder.png",
     "z_Assets/z_Templates/template_encounterNPC.md",
+    "z_Assets/z_Templates/template_encounteredNPC.md",
+    "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
+    "z_Assets/z_Attachments/imgaes/placeholder.png",
     "z_Assets/z_Attachments/imgaes",
     "Quick Tools.md",
     "NewNPC.md",
     "z_ Assets/Misc/ImagePlaceholder.png.md",
     "z_ Attachments/paceholder.png.md",
-    "z_Assets/z_Templates/template_encounteredNPCCCCCC.md",
-    "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
     "Campaigns/Lost Mine of Phandelver/Sessions/teszt.md",
     "z_ Attachments",
     "z_Resources/Untitled",

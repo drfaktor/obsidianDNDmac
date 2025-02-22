@@ -35,29 +35,8 @@ date:
 > Character Role | `=this.character-role` |
 
 
-```
-<% tp.file.title %>
-<% await tp.file.move("/2. Mechanics/Non-Player Characters/" + tp.file.title) %>
-
-<%*
-const hasTitle = !tp.file.title.startsWith("NewNPC");
-let title;
-if (!hasTitle) {
-    title = await tp.system.prompt("Enter NPC Name");
-    await tp.file.rename(title);
-} else {
-    title = tp.file.title;
-}
-_%>
-```
-
-
-```
-# `=this.file.name`
-```
-
 ### Appearance
-<% tp.file.cursor() %>
+	desribe appearance here
 
 ### Motivation
 
@@ -67,11 +46,5 @@ _%>
 
 	describe misc stuff
 
-> [!info] Statblock
-> ```statblock
-> name: Individual
-> monster: Commoner
-> columns: 1
-> ```
 
 
