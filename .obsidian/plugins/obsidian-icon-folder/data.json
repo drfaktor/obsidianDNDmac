@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiPin",
+      "🗺",
+      "LiMap",
+      "📜",
+      "🤷‍♂️"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,13 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Campaigns": "LiAlbum",
+  "Campaigns/Lost Mine of Phandelver": "LiAmphora",
+  "Campaigns/Lost Mine of Phandelver/Sessions": "LiArchive",
+  "Campaigns/Lost Mine of Phandelver/World": "LiEarth",
+  "Campaigns/Lost Mine of Phandelver/Players": "🤷‍♂️",
+  "Campaigns/Lost Mine of Phandelver/World/Lore": "📜",
+  "Campaigns/Lost Mine of Phandelver/World/Regional Maps": "🗺",
+  "Campaigns/Lost Mine of Phandelver/World/Visited Locations": "LiPin"
 }

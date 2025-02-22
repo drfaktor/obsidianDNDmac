@@ -18,6 +18,66 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/Players/test.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"test\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Untitled.canvas\",\"viewState\":{\"x\":0,\"y\":0,\"zoom\":0}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Untitled\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2025.02.28",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/Sessions/2025.02.28 test.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"2025.02.28\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"test\"}",
+                  "eState": "{\"scroll\":15.82517885358146}"
+                },
+                {
+                  "title": "test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/Players/test.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"test\"}",
+                  "eState": "{\"scroll\":13.4166748046875}"
+                },
+                {
+                  "title": "test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"test\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Encountered Locations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Encountered Locations.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Encountered Locations\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "template_location",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/z_Templates/template_location.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"template_location\"}",
+                  "eState": "{\"scroll\":56.19529619101088}"
+                },
+                {
+                  "title": "test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/Players/test.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"test\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "template_beyond_character_sheet",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/z_Templates/template_beyond_character_sheet.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"template_beyond_character_sheet\"}",
@@ -88,12 +148,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Lost Mine of Phandelver/Players/test.md",
-                "mode": "source",
+                "file": "Campaigns/Lost Mine of Phandelver/Sessions/2025.02.28 test.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "2025.02.28 test"
             }
           }
         ]
@@ -280,13 +340,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Lost Mine of Phandelver/Players/test.md",
+                "file": "Campaigns/Lost Mine of Phandelver/Sessions/2025.02.28 test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline of 2025.02.28 test"
             }
           },
           {
@@ -326,9 +386,28 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "44a6f07a5c8a001d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -349,20 +428,27 @@
       "homepage:Open homepage": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "completed-area:Completed Area": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
   "active": "1ef8f81f5450f548",
   "lastOpenFiles": [
+    "Campaigns/Lost Mine of Phandelver/Players/test.md",
+    "Untitled.canvas",
+    "Campaigns/Lost Mine of Phandelver/Sessions/2025.02.28 test.md",
+    "Canvas - Diero Falone.canvas",
+    "test.md",
+    "Quick Tools.md",
+    "|locl+hs-med.md",
+    "Campaigns/Lost Mine of Phandelver/World/Encountered Locations.md",
+    "z_Assets/z_Templates/template_location.md",
     "z_Assets/z_Templates/template_beyond_character_sheet.md",
     "z_Assets/z_Templates/tempalte_locale.md",
     "z_Assets/z_Templates/template_infobox_right_collapsible.md",
     "z_Assets/z_Templates/template_session.md",
     "z_Assets/z_Templates/template_column.md",
     "z_Assets/z_Templates/callout_question.md",
-    "Campaigns/Lost Mine of Phandelver/Players/test.md",
-    "Quick Tools.md",
-    "Campaigns/Lost Mine of Phandelver/World/Encountered Locations.md",
     "Campaigns/Lost Mine of Phandelver/World/Quests and Questions.md",
     "z_Assets/z_Templates/template_race_infobox.md",
     "z_Assets/z_Templates/Untitled",
@@ -383,15 +469,10 @@
     "z_Assets/z_Attachments/imgaes",
     "z_ Assets/Misc/ImagePlaceholder.png.md",
     "z_ Attachments/paceholder.png.md",
-    "Campaigns/Lost Mine of Phandelver/Sessions/teszt.md",
     "z_ Attachments",
     "z_Resources/Untitled",
     "z_ Assets/Misc",
     "z_ Assets",
-    "z_Assets/z_Templates/callout_abstract.md",
-    "z_Assets/z_Templates/callout_callout_custom_name_collapsed.md",
-    "z_Assets/z_Templates/callout_note.md",
-    "z_Assets/z_Templates/callout_info.md",
     "z_Assets/z_Templates/Callouts",
     "Campaigns/Lost Mine of Phandelver/World/Untitled.canvas"
   ]

@@ -13,11 +13,11 @@
   "formulas": {},
   "defaultRoll": 1,
   "defaultFace": 100,
-  "renderer": false,
+  "renderer": true,
   "renderAllDice": false,
   "addToView": false,
   "renderTime": 2000,
-  "colorfulDice": false,
+  "colorfulDice": true,
   "scaler": 1,
   "diceColor": "#202020",
   "textColor": "#ffffff",
@@ -75,6 +75,112 @@
   "showRenderNotice": true,
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
-  "viewResults": [],
-  "version": "11.4.1"
+  "version": "11.4.1",
+  "viewResults": [
+    {
+      "result": "5",
+      "original": "1d20",
+      "resultText": "1d20\n[5]",
+      "timestamp": 1740255795768,
+      "id": "Vm1P3qVKaUPy"
+    },
+    {
+      "result": "8",
+      "original": "1d20",
+      "resultText": "1d20\n[8]",
+      "timestamp": 1740255817136,
+      "id": "TWTh1XLMN3ix"
+    },
+    {
+      "result": "1066",
+      "original": "100d20",
+      "resultText": "100d20\n[10, 7, 3, 9, 6, 16, 17, 9, 2, 1, 11, 5, 9, 15, 14, 11, 16, 20, 16, 16, 11, 2, 10, 4, 4, 4, 11, 7, 6, 9, 16, 15, 7, 3, 19, 16, 2, 18, 18, 8, 8, 20, 19, 5, 13, 15, 19, 20, 19, 4, 2, 11, 10, 17, 16, 10, 5, 6, 19, 3, 19, 15, 17, 11, 19, 6, 20, 3, 7, 6, 5, 14, 8, 11, 6, 1, 1, 13, 17, 10, 8, 1, 8, 16, 3, 13, 6, 9, 19, 6, 17, 17, 11, 16, 17, 14, 2, 9, 5, 16]",
+      "timestamp": 1740255983756,
+      "id": "sG-NCeN3VyCl"
+    },
+    {
+      "result": "145",
+      "original": "10d20+40",
+      "resultText": "10d20+40\n[5, 1, 10, 13, 18, 1, 18, 7, 16, 16]+40",
+      "timestamp": 1740256020571,
+      "id": "7j31RApIzjPO"
+    },
+    {
+      "result": "94",
+      "original": "1d% + 3d20 + 1d12",
+      "resultText": "1d% + 3d20 + 1d12\n[49] + [16, 11, 12] + [6]",
+      "timestamp": 1740256034486,
+      "id": "XAvXl1-1Iy6O"
+    },
+    {
+      "result": "3",
+      "original": "3",
+      "resultText": "3\n3",
+      "timestamp": 1740256042382,
+      "id": "E6GGxJGKVFOZ"
+    },
+    {
+      "result": "4",
+      "original": "1d6",
+      "resultText": "1d6\n[4]",
+      "timestamp": 1740256048353,
+      "id": "h6YZFRCeSyE5"
+    },
+    {
+      "result": "1008",
+      "original": "100d20",
+      "resultText": "100d20\n[1, 11, 12, 6, 2, 1, 18, 10, 12, 5, 1, 9, 20, 7, 18, 7, 20, 8, 19, 10, 20, 13, 16, 12, 17, 20, 10, 18, 14, 8, 1, 3, 12, 14, 14, 16, 12, 18, 20, 1, 3, 3, 8, 20, 2, 2, 9, 8, 4, 6, 1, 17, 15, 3, 1, 1, 9, 8, 13, 19, 2, 7, 15, 20, 2, 3, 12, 3, 9, 9, 5, 2, 20, 14, 12, 10, 6, 5, 8, 14, 10, 1, 5, 6, 11, 13, 12, 12, 16, 13, 8, 20, 17, 10, 12, 2, 19, 20, 6, 9]",
+      "timestamp": 1740256166045,
+      "id": "ltrePv_L8Uh-"
+    },
+    {
+      "result": "3",
+      "original": "1d4",
+      "resultText": "1d4\n[3]",
+      "timestamp": 1740256173153,
+      "id": "T3ZbyfWmBEEg"
+    },
+    {
+      "result": "2",
+      "original": "1d6",
+      "resultText": "1d6\n[2]",
+      "timestamp": 1740256176570,
+      "id": "WWjB2-P-GeI7"
+    },
+    {
+      "result": "4",
+      "original": "1d8",
+      "resultText": "1d8\n[4]",
+      "timestamp": 1740256180570,
+      "id": "hP-aREN3_ynh"
+    },
+    {
+      "result": "94",
+      "original": "3d20 + 3d12 + 2d10 + 5d8 + 4d6 + 4d4",
+      "resultText": "3d20 + 3d12 + 2d10 + 5d8 + 4d6 + 4d4\n[2, 4, 14] + [4, 1, 1] + [10, 6] + [8, 5, 5, 8, 2] + [5, 1, 2, 3] + [4, 4, 2, 3]",
+      "timestamp": 1740256195005,
+      "id": "o5Vz7ixLfnc0"
+    },
+    {
+      "result": "22",
+      "original": "1d20kh + 4",
+      "resultText": "1d20kh + 4\n[18] + 4",
+      "timestamp": 1740256211054,
+      "id": "dKnDsi75IR9d"
+    },
+    {
+      "result": "12",
+      "original": "1d20kh",
+      "resultText": "1d20kh\n[12]",
+      "timestamp": 1740256222754,
+      "id": "TlEDsTVuaFpI"
+    },
+    {
+      "result": "20",
+      "original": "2d20kh",
+      "resultText": "2d20kh\n[20, 17d]",
+      "timestamp": 1740256238538,
+      "id": "p-_hyVbZUNlT"
+    }
+  ]
 }
