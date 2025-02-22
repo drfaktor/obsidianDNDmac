@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fecc6abda8e2b7cf",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "b3bf3218756f1c0f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,15 +194,16 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b3bf3218756f1c0f",
+  "active": "502dec35e1916772",
   "lastOpenFiles": [
+    "z_Assets/z_Attachments/imgaes",
     "Quick Tools.md",
-    "NewNPC.md",
     "z_Assets/z_Templates/template_encounterNPC.md",
+    "NewNPC.md",
     "z_ Assets/Misc/ImagePlaceholder.png.md",
     "z_ Attachments/paceholder.png.md",
     "z_Assets/z_Templates/template_encounteredNPCCCCCC.md",
-    "z_Assets/z_Attachments/placeholder.png",
+    "z_Assets/z_Attachments/imgaes/placeholder.png",
     "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
     "Campaigns/Lost Mine of Phandelver/Sessions/teszt.md",
     "z_ Attachments",
@@ -227,7 +228,6 @@
     "z_Assets/z_Templates/callout_bug.md",
     "z_Assets/z_Templates/Callouts/Untitled 6.md",
     "z_Assets/z_Templates/Callouts",
-    "Campaigns/Lost Mine of Phandelver/Overview.md",
     "z_Assets/z_Templates",
     "z_Assets/z_Attachments",
     "Campaigns/Lost Mine of Phandelver/World/Visited Locations",
