@@ -8,17 +8,92 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc0b5f6708c45bb1",
+            "id": "1ef8f81f5450f548",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "template_beyond_character_sheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/z_Templates/template_beyond_character_sheet.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"template_beyond_character_sheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":43},\"to\":{\"line\":20,\"ch\":43}},\"scroll\":3.533517340618711}"
+                },
+                {
+                  "title": "tempalte_locale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/z_Templates/tempalte_locale.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"tempalte_locale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "template_beyond_character_sheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/z_Templates/template_beyond_character_sheet.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"template_beyond_character_sheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":13},\"to\":{\"line\":13,\"ch\":13}},\"scroll\":0}"
+                },
+                {
+                  "title": "template_infobox_right_collapsible",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/z_Templates/template_infobox_right_collapsible.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"template_infobox_right_collapsible\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "template_session",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/z_Templates/template_session.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"template_session\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "template_column",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/z_Templates/template_column.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"template_column\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":11},\"to\":{\"line\":0,\"ch\":10}}}"
+                },
+                {
+                  "title": "template_beyond_character_sheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/z_Templates/template_beyond_character_sheet.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"template_beyond_character_sheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":5},\"to\":{\"line\":18,\"ch\":5}}}"
+                },
+                {
+                  "title": "callout_question",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/z_Templates/callout_question.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"callout_question\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":3},\"to\":{\"line\":0,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "template_beyond_character_sheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/z_Templates/template_beyond_character_sheet.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"template_beyond_character_sheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":6.8052268057568215}"
+                },
+                {
+                  "title": "test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/Players/test.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"test\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":16,\"ch\":3}},\"scroll\":13.285221354166667}"
+                },
+                {
+                  "title": "Quick Tools",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quick Tools.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Quick Tools\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Assets/z_Templates/template_session.md",
+                "file": "Campaigns/Lost Mine of Phandelver/Players/test.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "template_session"
+              "title": "test"
             }
           }
         ]
@@ -37,6 +112,15 @@
           {
             "id": "502dec35e1916772",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -50,6 +134,15 @@
           {
             "id": "6b687667803adcd4",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -67,6 +160,15 @@
           {
             "id": "68d3b1b241938ca4",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {},
@@ -91,6 +193,15 @@
           {
             "id": "2906d5a4952bfc63",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
@@ -110,6 +221,15 @@
           {
             "id": "32a6b9d70fe89c79",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
@@ -124,6 +244,15 @@
           {
             "id": "7e317d4745e09712",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -139,21 +268,39 @@
           {
             "id": "b3d6c8d23de9266b",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Assets/z_Templates/template_session.md",
+                "file": "Campaigns/Lost Mine of Phandelver/Players/test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of template_session"
+              "title": "Outline of test"
             }
           },
           {
             "id": "38ce969a5f964457",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "git-history-view",
               "state": {},
@@ -164,6 +311,15 @@
           {
             "id": "677074ef65493dea",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
@@ -191,22 +347,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "completed-area:Completed Area": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cc0b5f6708c45bb1",
+  "active": "1ef8f81f5450f548",
   "lastOpenFiles": [
-    "z_Assets/z_Templates/template_race_infobox.md",
-    "z_Assets/z_Templates/template_session.md",
+    "z_Assets/z_Templates/template_beyond_character_sheet.md",
     "z_Assets/z_Templates/tempalte_locale.md",
+    "z_Assets/z_Templates/template_infobox_right_collapsible.md",
+    "z_Assets/z_Templates/template_session.md",
+    "z_Assets/z_Templates/template_column.md",
+    "z_Assets/z_Templates/callout_question.md",
+    "Campaigns/Lost Mine of Phandelver/Players/test.md",
+    "Quick Tools.md",
+    "Campaigns/Lost Mine of Phandelver/World/Encountered Locations.md",
+    "Campaigns/Lost Mine of Phandelver/World/Quests and Questions.md",
+    "z_Assets/z_Templates/template_race_infobox.md",
     "z_Assets/z_Templates/Untitled",
     "z_Assets/z_Attachments/tavern_generic.jpg",
-    "z_Assets/z_Templates/template_infobox_right_collapsible.md",
     "z_Assets/z_Templates/template_infobox_right.md",
     "z_Assets/z_Templates/template_infobox_left.md",
-    "z_Assets/z_Templates/template_column.md",
     "z_Assets/z_Templates/template_encounteredNPC.md",
-    "Quick Tools.md",
     "Campaigns/Lost Mine of Phandelver/World/Encountered NPCs/Untitled.md",
     "NewNPC.md",
     "z_Assets/z_Attachments/placeholder.png",
@@ -229,11 +392,6 @@
     "z_Assets/z_Templates/callout_callout_custom_name_collapsed.md",
     "z_Assets/z_Templates/callout_note.md",
     "z_Assets/z_Templates/callout_info.md",
-    "Campaigns/Lost Mine of Phandelver/World/Encountered Locations.md",
-    "z_Assets/z_Templates/callout_warning.md",
-    "z_Assets/z_Templates/callout_tip.md",
-    "z_Assets/z_Templates/callout_success.md",
-    "z_Assets/z_Templates/callout_quote.md",
     "z_Assets/z_Templates/Callouts",
     "Campaigns/Lost Mine of Phandelver/World/Untitled.canvas"
   ]

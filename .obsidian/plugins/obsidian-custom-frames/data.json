@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://www.dndbeyond.com/characters/142095119/toMzSB",
+      "displayName": "CharSheet",
+      "icon": "shield",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
