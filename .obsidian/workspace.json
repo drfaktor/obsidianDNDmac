@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "781a82c6ad6118b2",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "cc0b5f6708c45bb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Assets/z_Templates/template_encounterNPC.md",
-                "mode": "source",
+                "file": "Quick Tools.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "template_encounterNPC"
+              "title": "Quick Tools"
             }
           }
         ]
@@ -196,9 +196,9 @@
   },
   "active": "502dec35e1916772",
   "lastOpenFiles": [
+    "z_Assets/z_Templates/template_encounterNPC.md",
     "z_Assets/z_Attachments/imgaes",
     "Quick Tools.md",
-    "z_Assets/z_Templates/template_encounterNPC.md",
     "NewNPC.md",
     "z_ Assets/Misc/ImagePlaceholder.png.md",
     "z_ Attachments/paceholder.png.md",
@@ -232,7 +232,6 @@
     "z_Assets/z_Attachments",
     "Campaigns/Lost Mine of Phandelver/World/Visited Locations",
     "Campaigns/Lost Mine of Phandelver/World/Regional Maps",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/General",
     "Campaigns/Lost Mine of Phandelver/World/Untitled.canvas"
   ]
 }
