@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Assets/z_Templates/tempalte_locale.md",
-                "mode": "preview",
+                "file": "z_Assets/z_Templates/template_race_infobox.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "tempalte_locale"
+              "title": "template_race_infobox"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Assets/z_Templates/tempalte_locale.md",
+                "file": "z_Assets/z_Templates/template_race_infobox.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tempalte_locale"
+              "title": "Outline of template_race_infobox"
             }
           },
           {
@@ -196,10 +196,12 @@
   },
   "active": "cc0b5f6708c45bb1",
   "lastOpenFiles": [
+    "z_Assets/z_Templates/tempalte_locale.md",
+    "z_Assets/z_Templates/template_race_infobox.md",
+    "z_Assets/z_Templates/Untitled",
     "z_Assets/z_Attachments/tavern_generic.jpg",
     "z_Assets/z_Templates/template_infobox_right_collapsible.md",
     "z_Assets/z_Templates/template_infobox_right.md",
-    "z_Assets/z_Templates/tempalte_locale.md",
     "z_Assets/z_Templates/template_infobox_left.md",
     "z_Assets/z_Templates/template_column.md",
     "z_Assets/z_Templates/template_encounteredNPC.md",
@@ -233,7 +235,6 @@
     "z_Assets/z_Templates/callout_quote.md",
     "z_Assets/z_Templates/callout_question.md",
     "z_Assets/z_Templates/Callouts",
-    "z_Assets/z_Templates",
     "Campaigns/Lost Mine of Phandelver/World/Untitled.canvas"
   ]
 }
