@@ -12,9 +12,9 @@ NoteIcon: npc
 ---
 
 <% tp.file.title %>
-<% await tp.file.move("/Campaigns/Lost Mine of Phandelver/World/Encountered NPCs/" + tp.file.title) %>
+<% await tp.file.move("Campaigns/Lost Mine of Phandelver/World/Encountered NPCs/" + tp.file.title) %>
 
-<%*
+<%
 const hasTitle = !tp.file.title.startsWith("NewNPC");
 let title;
 if (!hasTitle) {
