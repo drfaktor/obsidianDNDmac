@@ -8,7 +8,7 @@
     ]
   ],
   "trigger_on_file_creation": true,
-  "auto_jump_to_cursor": false,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "Campaigns/Lost Mine of Phandelver/World/Encountered NPCs",
-      "template": "z_Assets/z_Templates/encounteredNPC.md"
+      "template": "z_Assets/z_Templates/encounterNPC.md"
     }
   ],
   "enable_file_templates": false,

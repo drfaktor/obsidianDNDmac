@@ -6,5 +6,8 @@
   "buttons",
   "templater-obsidian",
   "homepage",
-  "new-tab-default-page"
+  "new-tab-default-page",
+  "obsidian-5e-statblocks",
+  "obsidian-dice-roller",
+  "dataview"
 ]

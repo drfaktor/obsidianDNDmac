@@ -1,9 +1,7 @@
 ```button
-name ughdriughe
-type template
-action abstract
+name New NPC
+type note(NewNPC, split) template
+action template_encounterNPC
+templater true
 ```
-^button-76ab
-
-
-
+^button-NewNPCID

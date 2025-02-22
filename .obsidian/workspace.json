@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "dce0498787fd9a68",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "4b67357e48decf77",
+        "id": "fecc6abda8e2b7cf",
         "type": "tabs",
         "children": [
           {
-            "id": "65c05255ac18a38c",
+            "id": "b3bf3218756f1c0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Tools.md",
-                "mode": "preview",
+                "file": "z_Assets/z_Templates/template_encounterNPC.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Quick Tools"
+              "title": "template_encounterNPC"
             }
           }
         ]
@@ -160,6 +160,16 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "677074ef65493dea",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 4
@@ -180,20 +190,31 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "65c05255ac18a38c",
+  "active": "b3bf3218756f1c0f",
   "lastOpenFiles": [
+    "NewNPC.md",
     "Quick Tools.md",
+    "z_Assets/z_Templates/template_encounterNPC.md",
+    "z_Assets/z_Templates/template_encounteredNPCCCCCC.md",
+    "z_Assets/z_Attachments/placeholder.png",
+    "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
+    "Campaigns/Lost Mine of Phandelver/Sessions/teszt.md",
+    "z_ Attachments/paceholder.png.md",
+    "z_ Attachments",
+    "z_Resources/Untitled",
+    "z_ Assets/Misc/ImagePlaceholder.png.md",
+    "z_ Assets/Misc",
+    "z_ Assets",
     "z_Assets/z_Templates/callout_abstract.md",
     "z_Assets/z_Templates/callout_callout_custom_name_collapsed.md",
     "z_Assets/z_Templates/callout_note.md",
-    "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
     "z_Assets/z_Templates/callout_info.md",
     "Campaigns/Lost Mine of Phandelver/World/Encountered Locations.md",
     "Campaigns/Lost Mine of Phandelver/World/Encountered NPCs/Untitled.md",
-    "z_Assets/z_Templates/encounteredNPC.md",
     "z_Assets/z_Templates/callout_warning.md",
     "z_Assets/z_Templates/callout_tip.md",
     "z_Assets/z_Templates/callout_success.md",
@@ -205,21 +226,13 @@
     "z_Assets/z_Templates/callout_custom_name_expanded.md",
     "z_Assets/z_Templates/callout_bug.md",
     "z_Assets/z_Templates/Callouts/Untitled 6.md",
-    "Campaigns/Lost Mine of Phandelver/Sessions/teszt.md",
     "z_Assets/z_Templates/Callouts",
     "Campaigns/Lost Mine of Phandelver/Overview.md",
     "z_Assets/z_Templates",
     "z_Assets/z_Attachments",
-    "Campaigns/Lost Mine of Phandelver/World/Quests and Questions.md",
     "Campaigns/Lost Mine of Phandelver/World/Visited Locations",
     "Campaigns/Lost Mine of Phandelver/World/Regional Maps",
     "Campaigns/Lost Mine of Phandelver/World/Lore/General",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/Discovered/General",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/Discovered",
-    "Campaigns/Lost Mine of Phandelver/World/Lore",
-    "Campaigns/Lost Mine of Phandelver/World/Encountered Races",
-    "Campaigns/Lost Mine of Phandelver/World/Untitled.canvas",
-    "faszom.md",
-    "Hello Git.md"
+    "Campaigns/Lost Mine of Phandelver/World/Untitled.canvas"
   ]
 }
