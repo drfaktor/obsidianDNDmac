@@ -8,7 +8,7 @@
 > | Test | Testing |
 >  
 > ###### Stats 2
-> | Tpye | Stat |
+> | Type | Stat |
 > | ---- | ---- |
 > | Test | Testing |
 > | Test | Testing | 

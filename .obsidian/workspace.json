@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Assets/z_Templates/template_infobox_right_collapsible.md",
-                "mode": "source",
+                "file": "z_Assets/z_Templates/tempalte_locale.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "template_infobox_right_collapsible"
+              "title": "tempalte_locale"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Assets/z_Templates/template_infobox_right_collapsible.md",
+                "file": "z_Assets/z_Templates/tempalte_locale.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of template_infobox_right_collapsible"
+              "title": "Outline of tempalte_locale"
             }
           },
           {
@@ -196,8 +196,10 @@
   },
   "active": "cc0b5f6708c45bb1",
   "lastOpenFiles": [
-    "z_Assets/z_Templates/template_infobox_right.md",
+    "z_Assets/z_Attachments/tavern_generic.jpg",
     "z_Assets/z_Templates/template_infobox_right_collapsible.md",
+    "z_Assets/z_Templates/template_infobox_right.md",
+    "z_Assets/z_Templates/tempalte_locale.md",
     "z_Assets/z_Templates/template_infobox_left.md",
     "z_Assets/z_Templates/template_column.md",
     "z_Assets/z_Templates/template_encounteredNPC.md",
@@ -230,8 +232,6 @@
     "z_Assets/z_Templates/callout_success.md",
     "z_Assets/z_Templates/callout_quote.md",
     "z_Assets/z_Templates/callout_question.md",
-    "z_Assets/z_Templates/callout_failure.md",
-    "z_Assets/z_Templates/callout_example.md",
     "z_Assets/z_Templates/Callouts",
     "z_Assets/z_Templates",
     "Campaigns/Lost Mine of Phandelver/World/Untitled.canvas"
