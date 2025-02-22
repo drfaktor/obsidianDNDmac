@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Assets/z_Templates/template_infobox_right.md",
+                "file": "z_Assets/z_Templates/template_infobox_right_collapsible.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "template_infobox_right"
+              "title": "template_infobox_right_collapsible"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Assets/z_Templates/template_infobox_right.md",
+                "file": "z_Assets/z_Templates/template_infobox_right_collapsible.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of template_infobox_right"
+              "title": "Outline of template_infobox_right_collapsible"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "cc0b5f6708c45bb1",
   "lastOpenFiles": [
-    "z_Assets/z_Templates/template_infobox_left.md",
     "z_Assets/z_Templates/template_infobox_right.md",
+    "z_Assets/z_Templates/template_infobox_right_collapsible.md",
+    "z_Assets/z_Templates/template_infobox_left.md",
     "z_Assets/z_Templates/template_column.md",
     "z_Assets/z_Templates/template_encounteredNPC.md",
     "Quick Tools.md",
@@ -231,7 +232,6 @@
     "z_Assets/z_Templates/callout_question.md",
     "z_Assets/z_Templates/callout_failure.md",
     "z_Assets/z_Templates/callout_example.md",
-    "z_Assets/z_Templates/callout_danger.md",
     "z_Assets/z_Templates/Callouts",
     "z_Assets/z_Templates",
     "Campaigns/Lost Mine of Phandelver/World/Untitled.canvas"
