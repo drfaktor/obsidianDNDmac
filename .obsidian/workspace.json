@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Tools.md",
+                "file": "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Quick Tools"
+              "title": "Lost Mine of Phandelver"
             }
           }
         ]
@@ -194,8 +194,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "502dec35e1916772",
+  "active": "cc0b5f6708c45bb1",
   "lastOpenFiles": [
+    "z_Assets/z_Attachments/imgaes/placeholder.png",
     "z_Assets/z_Templates/template_encounterNPC.md",
     "z_Assets/z_Attachments/imgaes",
     "Quick Tools.md",
@@ -203,7 +204,6 @@
     "z_ Assets/Misc/ImagePlaceholder.png.md",
     "z_ Attachments/paceholder.png.md",
     "z_Assets/z_Templates/template_encounteredNPCCCCCC.md",
-    "z_Assets/z_Attachments/imgaes/placeholder.png",
     "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
     "Campaigns/Lost Mine of Phandelver/Sessions/teszt.md",
     "z_ Attachments",
