@@ -8,20 +8,203 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa7fe504b1c9a686",
+            "id": "5c47f6201dfc1aea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Lost Mine of Phandelver/Overview.md",
+                "file": "z_Assets/z_Templates/callout_callout_custom_name_collapsed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "callout_callout_custom_name_collapsed"
+            }
+          },
+          {
+            "id": "5ca7a8d2eef4b179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/z_Templates/callout_note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "callout_note"
+            }
+          },
+          {
+            "id": "41d4a26ba624e9ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/z_Templates/callout_abstract.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "callout_abstract"
+            }
+          },
+          {
+            "id": "08a330c88155c649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/z_Templates/callout_info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "callout_info"
+            }
+          },
+          {
+            "id": "51cca18655b90c24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/z_Templates/callout_tip.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "callout_tip"
+            }
+          },
+          {
+            "id": "888e075d4c17b302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/z_Templates/callout_success.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "callout_success"
+            }
+          },
+          {
+            "id": "3a0b64c968bd329b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/z_Templates/callout_question.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "callout_question"
+            }
+          },
+          {
+            "id": "056940706760f520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/z_Templates/callout_warning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "callout_warning"
+            }
+          },
+          {
+            "id": "b15d2958b10a0dea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/z_Templates/callout_warning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "callout_warning"
+            }
+          },
+          {
+            "id": "de7431fe1d69a687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/z_Templates/callout_failure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "callout_failure"
+            }
+          },
+          {
+            "id": "346fe8c0674f70d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/z_Templates/callout_danger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "callout_danger"
+            }
+          },
+          {
+            "id": "04a288c431b459f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/z_Templates/callout_bug.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "callout_bug"
+            }
+          },
+          {
+            "id": "ce343a9e95545d21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/z_Templates/callout_example.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "callout_example"
+            }
+          },
+          {
+            "id": "4061e5b2c596dd6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/z_Templates/callout_warning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "callout_warning"
             }
           }
-        ]
+        ],
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -94,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Lost Mine of Phandelver/Overview.md",
+                "file": "z_Assets/z_Templates/callout_warning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +287,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Overview"
+              "title": "Backlinks for callout_warning"
             }
           },
           {
@@ -113,12 +296,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Lost Mine of Phandelver/Overview.md",
+                "file": "z_Assets/z_Templates/callout_warning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Overview"
+              "title": "Outgoing links from callout_warning"
             }
           },
           {
@@ -142,13 +325,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Lost Mine of Phandelver/Overview.md",
+                "file": "z_Assets/z_Templates/callout_warning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Overview"
+              "title": "Outline of callout_warning"
             }
           },
           {
@@ -178,16 +361,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "502dec35e1916772",
+  "active": "4061e5b2c596dd6c",
   "lastOpenFiles": [
+    "z_Assets/z_Templates/callout_tip.md",
+    "z_Assets/z_Templates/callout_success.md",
+    "z_Assets/z_Templates/callout_quote.md",
+    "z_Assets/z_Templates/callout_question.md",
+    "z_Assets/z_Templates/callout_note.md",
+    "z_Assets/z_Templates/callout_info.md",
+    "z_Assets/z_Templates/callout_failure.md",
+    "z_Assets/z_Templates/callout_example.md",
+    "z_Assets/z_Templates/callout_danger.md",
+    "z_Assets/z_Templates/callout_custom_name_expanded.md",
+    "z_Assets/z_Templates/callout_callout_custom_name_collapsed.md",
+    "z_Assets/z_Templates/callout_abstract.md",
+    "z_Assets/z_Templates/callout_bug.md",
+    "QUICK ACTIONS.md",
+    "Campaigns/Lost Mine of Phandelver/World/Encountered Locations.md",
+    "z_Assets/z_Templates/callout_warning.md",
+    "z_Assets/z_Templates/Callouts/Untitled 6.md",
+    "Campaigns/Lost Mine of Phandelver/Sessions/teszt.md",
+    "z_Assets/z_Templates/Callouts",
+    "Campaigns/Lost Mine of Phandelver/Overview.md",
     "z_Assets/z_Templates",
     "z_Assets/z_Attachments",
     "Campaigns/Lost Mine of Phandelver/World/Quests and Questions.md",
-    "Campaigns/Lost Mine of Phandelver/Overview.md",
-    "Campaigns/Lost Mine of Phandelver/World/Encountered Locations.md",
     "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
     "Campaigns/Lost Mine of Phandelver/World/Visited Locations",
     "Campaigns/Lost Mine of Phandelver/World/Regional Maps",
@@ -197,8 +399,6 @@
     "Campaigns/Lost Mine of Phandelver/World/Lore",
     "Campaigns/Lost Mine of Phandelver/World/Encountered Races",
     "Campaigns/Lost Mine of Phandelver/World/Untitled.canvas",
-    "Campaigns/Lost Mine of Phandelver/World/Encountered NPCs",
-    "Campaigns/Lost Mine of Phandelver/World",
     "faszom.md",
     "Hello Git.md"
   ]
