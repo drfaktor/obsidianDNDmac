@@ -17,7 +17,7 @@ date:
 > [!infobox]
 > # `=this.file.name`
 > ![[placeholder.png]]
-> [[z_Attachments/paceholder.png|Show To Players]]
+> [[z_Attachments/placeholder.png|Show To Players]]
 > ###### Basic Information
 > Type | Stat |
 > ---|---|

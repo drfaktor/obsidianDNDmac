@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Assets/z_Templates/template_encounteredNPC.md",
+                "file": "z_Assets/z_Templates/template_column.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "template_encounteredNPC"
+              "title": "template_column"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Assets/z_Templates/callout_note.md",
+                "file": "z_Assets/z_Templates/template_column.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of callout_note"
+              "title": "Outline of template_column"
             }
           },
           {
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,13 +196,20 @@
   },
   "active": "cc0b5f6708c45bb1",
   "lastOpenFiles": [
-    "z_Assets/z_Templates/template_encounterNPC.md",
     "z_Assets/z_Templates/template_encounteredNPC.md",
+    "z_Assets/z_Templates/template_column.md",
+    "Quick Tools.md",
+    "Campaigns/Lost Mine of Phandelver/World/Encountered NPCs/Untitled.md",
+    "NewNPC.md",
+    "z_Assets/z_Attachments/placeholder.png",
+    "z_Attachments/paceholder.png.md",
+    "z_Attachments",
+    "z_Assets/z_Attachments/geci",
+    "z_Assets/z_Attachments",
+    "z_Assets/z_Templates/template_encounterNPC.md",
     "Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
     "z_Assets/z_Attachments/imgaes/placeholder.png",
     "z_Assets/z_Attachments/imgaes",
-    "Quick Tools.md",
-    "NewNPC.md",
     "z_ Assets/Misc/ImagePlaceholder.png.md",
     "z_ Attachments/paceholder.png.md",
     "Campaigns/Lost Mine of Phandelver/Sessions/teszt.md",
@@ -215,7 +222,6 @@
     "z_Assets/z_Templates/callout_note.md",
     "z_Assets/z_Templates/callout_info.md",
     "Campaigns/Lost Mine of Phandelver/World/Encountered Locations.md",
-    "Campaigns/Lost Mine of Phandelver/World/Encountered NPCs/Untitled.md",
     "z_Assets/z_Templates/callout_warning.md",
     "z_Assets/z_Templates/callout_tip.md",
     "z_Assets/z_Templates/callout_success.md",
@@ -226,12 +232,8 @@
     "z_Assets/z_Templates/callout_danger.md",
     "z_Assets/z_Templates/callout_custom_name_expanded.md",
     "z_Assets/z_Templates/callout_bug.md",
-    "z_Assets/z_Templates/Callouts/Untitled 6.md",
     "z_Assets/z_Templates/Callouts",
     "z_Assets/z_Templates",
-    "z_Assets/z_Attachments",
-    "Campaigns/Lost Mine of Phandelver/World/Visited Locations",
-    "Campaigns/Lost Mine of Phandelver/World/Regional Maps",
     "Campaigns/Lost Mine of Phandelver/World/Untitled.canvas"
   ]
 }
