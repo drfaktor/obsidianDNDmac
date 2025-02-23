@@ -4,120 +4,282 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "704312b7c36f9376",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "fa63e3b0c5c6b62b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Prime Material Plane",
+                  "title": "Astral Plane",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prime Material Plane\"}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Sword Coast Map",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Lore/Discovered/Regional Maps/Sword Coast Map.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Sword Coast Map\"}",
-                  "eState": "{\"scroll\":0.9358101873270146}"
-                },
-                {
-                  "title": "NeverWinter Woods",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Lore/General/NeverWinter Woods.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"NeverWinter Woods\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Astral Plane.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Astral Plane\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Sword Coast Map",
+                  "title": "Realmspace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Lore/Discovered/Regional Maps/Sword Coast Map.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Sword Coast Map\"}",
-                  "eState": "{\"scroll\":0.9358101873270146}"
-                },
-                {
-                  "title": "NeverWinter Woods",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Lore/General/NeverWinter Woods.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"NeverWinter Woods\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Sword Coast Map",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Lore/Discovered/Regional Maps/Sword Coast Map.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Sword Coast Map\"}",
-                  "eState": "{\"scroll\":0.9358101873270146}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
+                  "eState": "{\"scroll\":20.92665382667824}"
                 },
                 {
                   "title": "Prime Material Plane",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prime Material Plane\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Prime Material Plane.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prime Material Plane\"}",
+                  "eState": "{\"scroll\":11.9300049812563}"
+                },
+                {
+                  "title": "Astral Plane",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Astral Plane.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Astral Plane\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "NeverWinter Woods",
+                  "title": "Toril",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Lore/General/NeverWinter Woods.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"NeverWinter Woods\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Toril.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Toril\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "West Faerûn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/West Faerûn.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"West Faerûn\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Sword Coast Map",
+                  "title": "Wildspace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Lore/Discovered/Regional Maps/Sword Coast Map.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Sword Coast Map\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Wildspace.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Wildspace\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "NeverWinter Woods",
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Realmspace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Lore/General/NeverWinter Woods.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"NeverWinter Woods\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Ethereal Plane",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Ethereal Plane.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Ethereal Plane\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Crystal Sphere",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Crystal Sphere.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Crystal Sphere\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Character",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Campaigns/Lost Mine of Phandelver/Players/Character.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Character\"}",
+                  "eState": "{\"scroll\":8.08840886330118}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lost Mine of Phandelver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lost Mine of Phandelver\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lost Mine of Phandelver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lost Mine of Phandelver\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lost Mine of Phandelver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lost Mine of Phandelver\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Toril",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Toril.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Toril\"}",
+                  "eState": "{\"scroll\":27.95873042515346}"
+                },
+                {
+                  "title": "Realmspace",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Toril",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Toril.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Toril\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
+                },
+                {
+                  "title": "Realmspace",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Toril",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Toril.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Toril\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Realmspace",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
+                  "eState": "{\"scroll\":0.605103011358352}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Realmspace",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
+                  "eState": "{\"scroll\":37.032217843191965}"
+                },
+                {
+                  "title": "Umber Hulks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Races/Umber Hulks.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Umber Hulks\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Orcs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Races/Orcs.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Orcs\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Illithids",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Races/Illithids.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Illithids\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Humans",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Races/Humans.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Humans\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Halflings",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Races/Halflings.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Halflings\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Dwarves",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Races/Dwarves.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Dwarves\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Umber Hulks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Races/Umber Hulks.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"umber hulks\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Realmspace",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
+                  "eState": "{\"scroll\":43.71559579031808}"
+                },
+                {
+                  "title": "Prime Material Plane",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Prime Material Plane.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prime Material Plane\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Realmspace",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Prime Material Plane",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Prime Material Plane.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prime Material Plane\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Realmspace",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Toril",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Toril.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Toril\"}",
                   "eState": "{}"
                 },
                 {
                   "title": "Prime Material Plane",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prime Material Plane\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "NeverWinter Woods",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Lore/General/NeverWinter Woods.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"NeverWinter Woods\"}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Sword Coast Map",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Lore/Discovered/Regional Maps/Sword Coast Map.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Sword Coast Map\"}",
-                  "eState": "{\"scroll\":0.9358101873270146}"
-                },
-                {
-                  "title": "NeverWinter Woods",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Lore/General/NeverWinter Woods.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"NeverWinter Woods\"}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Sword Coast Map",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Lost Mine of Phandelver/World/Lore/Discovered/Regional Maps/Sword Coast Map.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Sword Coast Map\"}",
-                  "eState": "{\"scroll\":0.9358101873270146}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Prime Material Plane.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prime Material Plane\"}",
+                  "eState": "{\"scroll\":5.954443425627544}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Lost Mine of Phandelver/World/Lore/General/NeverWinter Woods.md",
+                "file": "Forgotten Realms/World/Toril.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "NeverWinter Woods"
+              "title": "Toril"
             }
           }
         ]
@@ -371,7 +533,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -398,50 +560,55 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fa63e3b0c5c6b62b",
   "lastOpenFiles": [
-    "Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane.md",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/Discovered/Regional Maps/Sword Coast Map.md",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/General/NeverWinter Woods.md",
+    "Forgotten Realms/World/Toril.md",
+    "Forgotten Realms/World/Astral Plane.md",
+    "Forgotten Realms/World/Realmspace.md",
+    "Forgotten Realms/World/Prime Material Plane.md",
+    "Forgotten Realms/World/West Faerûn.md",
+    "Forgotten Realms/World/Wildspace.md",
+    "Forgotten Realms/World/Ethereal Plane.md",
+    "Forgotten Realms/World/Crystal Sphere.md",
+    "Forgotten Realms/Campaigns/Lost Mine of Phandelver/Players/Character.md",
+    "Forgotten Realms/Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
+    "Forgotten Realms/Races/elves.md",
+    "Forgotten Realms/Races/gnomes.md",
+    "z_Assets/z_Attachments/toril_continents.jpg",
+    "z_Assets/z_Attachments/toril.jpg",
+    "Forgotten Realms/Races/Umber Hulks.md",
+    "Forgotten Realms/Races/Orcs.md",
+    "Forgotten Realms/Races/Illithids.md",
+    "Forgotten Realms/Races/Humans.md",
+    "Forgotten Realms/Races/Halflings.md",
+    "Forgotten Realms/Races/Dwarves.md",
+    "Forgotten Realms/Races",
+    "z_Assets/z_Attachments/Realmspace-2e.webp",
+    "z_Assets/z_Attachments/realmspace.jpg",
+    "z_Assets/z_Attachments/Realmspace-2e.jpg",
+    "Forgotten Realms/World/Netherese.md",
+    "Forgotten Realms/World/sun.md",
+    "Forgotten Realms/World/phlogiston.md",
+    "6.md",
+    "Forgotten Realms/World/Elemental Chaos.md",
+    "Forgotten Realms/World/fundamental planes.md",
+    "Forgotten Realms/World/World Axis cosmology.md",
+    "Forgotten Realms/World/Plane of Shadow.md",
+    "Forgotten Realms/Magic",
+    "Campaigns/Lost Mine of Phandelver/World/Lore/General/World/Universe",
+    "Campaigns/Lost Mine of Phandelver/World/Lore/General/World/Farun",
+    "Forgotten Realms/World",
     "z_Assets/z_Attachments/phandelver_exterior_player_interactive.jpg",
-    "Campaigns/Lost Mine of Phandelver/World/Encountered Locations.md",
-    "Campaigns/Lost Mine of Phandelver/Players/test.md",
-    "z_Assets/z_Templates/callout_callout_custom_name_collapsed.md",
-    "[prime_material_plane.png.md",
-    "z_Assets/z_Templates/template_location.md",
     "z_Assets/z_Attachments/prime_material_plane.png",
-    "z_Assets/z_Templates/Untitled.md",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane/Realmspace/Toril/Faerûn/West Faerûn/Sword Coast/Sword Coast.md",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/General/Regional Maps/map.md",
-    "Campaigns/Lost Mine of Phandelver/Sessions/2025.02.28 test.md",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/General/Regional Maps/Sword Coast Map.md",
-    "Campaigns/Lost Mine of Phandelver/World/Quests and Questions.md",
-    "Campaigns/Lost Mine of Phandelver/Overview.md",
     "ww.json",
     "//ww.json",
-    "Untitled 1.md",
-    "Untitled.md",
-    "z_Assets/z_Templates/template_map.md",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane/Realmspace/Toril/Faerûn/West Faerûn/West Faerûn.md",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane/Realmspace/Toril/Faerûn/Faerûn.md",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane/Realmspace/Toril/Toril.md",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane/Realmspace/Realmspace.md",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane/Prime Material Plane.md",
     "Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane/Realmspace/Toril/Faerûn/West Faerûn/Sword Coast",
     "Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane/Realmspace/Toril/Faerûn/West Faerûn",
     "Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane/Realmspace/Toril/Faerûn",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane/Realmspace",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane/Realmspace/Toril",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/General/General.md",
-    "Campaigns/Lost Mine of Phandelver/World/Lore/General/Prime Material Plane",
     "Untitled.canvas",
     "Canvas - Diero Falone.canvas",
-    "test.md",
-    "Quick Tools.md",
-    "z_Assets/z_Templates/Untitled",
     "z_Assets/z_Attachments/tavern_generic.jpg",
     "z_Assets/z_Attachments/placeholder.png",
-    "z_Attachments",
     "z_Assets/z_Attachments/imgaes/placeholder.png",
     "Campaigns/Lost Mine of Phandelver/World/Untitled.canvas"
   ]

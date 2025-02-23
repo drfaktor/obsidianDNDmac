@@ -52,37 +52,6 @@
       ],
       "shapes": [],
       "files": []
-    },
-    {
-      "id": "swordCoast",
-      "lastAccessed": 1740280244502,
-      "markers": [
-        {
-          "id": "ID_9b08cac9fac9",
-          "type": "Forest",
-          "loc": [
-            1198,
-            878
-          ],
-          "link": "NeverWinter Woods",
-          "layer": "%5B%5Bphandelver_exterior_player_interactive.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5868983957219251,
-            -0.5849609375
-          ],
-          "description": "Neverwinter Wood",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Campaigns/Lost Mine of Phandelver/World/Lore/Discovered/Regional Maps/Sword Coast Map.md"
-      ]
     }
   ],
   "defaultMarker": {
