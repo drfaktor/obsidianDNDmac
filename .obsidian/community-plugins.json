@@ -20,5 +20,7 @@
   "obsidian-text-format",
   "pane-relief",
   "obsidian-custom-frames",
-  "initiative-tracker"
+  "initiative-tracker",
+  "obsidian-leaflet-plugin",
+  "obsidian-meta-bind-plugin"
 ]
