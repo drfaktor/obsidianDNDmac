@@ -4,282 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "704312b7c36f9376",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "fa63e3b0c5c6b62b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Astral Plane",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Astral Plane.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Astral Plane\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Realmspace",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
-                  "eState": "{\"scroll\":20.92665382667824}"
-                },
-                {
-                  "title": "Prime Material Plane",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Prime Material Plane.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prime Material Plane\"}",
-                  "eState": "{\"scroll\":11.9300049812563}"
-                },
-                {
-                  "title": "Astral Plane",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Astral Plane.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Astral Plane\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Toril",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Toril.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Toril\"}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "West Faerûn",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/West Faerûn.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"West Faerûn\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Wildspace",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Wildspace.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Wildspace\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Realmspace",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Ethereal Plane",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Ethereal Plane.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Ethereal Plane\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Crystal Sphere",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Crystal Sphere.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Crystal Sphere\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Character",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Campaigns/Lost Mine of Phandelver/Players/Character.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Character\"}",
-                  "eState": "{\"scroll\":8.08840886330118}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Lost Mine of Phandelver",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lost Mine of Phandelver\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Lost Mine of Phandelver",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lost Mine of Phandelver\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Lost Mine of Phandelver",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lost Mine of Phandelver\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Toril",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Toril.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Toril\"}",
-                  "eState": "{\"scroll\":27.95873042515346}"
-                },
-                {
-                  "title": "Realmspace",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Toril",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Toril.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Toril\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
-                },
-                {
-                  "title": "Realmspace",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Toril",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Toril.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Toril\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Realmspace",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
-                  "eState": "{\"scroll\":0.605103011358352}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Realmspace",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
-                  "eState": "{\"scroll\":37.032217843191965}"
-                },
-                {
-                  "title": "Umber Hulks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Races/Umber Hulks.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Umber Hulks\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Orcs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Races/Orcs.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Orcs\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Illithids",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Races/Illithids.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Illithids\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Humans",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Races/Humans.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Humans\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Halflings",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Races/Halflings.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Halflings\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Dwarves",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Races/Dwarves.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Dwarves\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Umber Hulks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/Races/Umber Hulks.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"umber hulks\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Realmspace",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
-                  "eState": "{\"scroll\":43.71559579031808}"
-                },
-                {
-                  "title": "Prime Material Plane",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Prime Material Plane.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prime Material Plane\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Realmspace",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Prime Material Plane",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Prime Material Plane.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prime Material Plane\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Realmspace",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Realmspace.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Realmspace\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Toril",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Toril.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Toril\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prime Material Plane",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forgotten Realms/World/Prime Material Plane.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prime Material Plane\"}",
-                  "eState": "{\"scroll\":5.954443425627544}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forgotten Realms/World/Toril.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Toril"
+              "title": "New tab"
             }
           }
         ]
@@ -560,40 +304,40 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "fa63e3b0c5c6b62b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Forgotten Realms/World/Toril.md",
     "Forgotten Realms/World/Astral Plane.md",
     "Forgotten Realms/World/Realmspace.md",
-    "Forgotten Realms/World/Prime Material Plane.md",
-    "Forgotten Realms/World/West Faerûn.md",
-    "Forgotten Realms/World/Wildspace.md",
-    "Forgotten Realms/World/Ethereal Plane.md",
+    "Forgotten Realms/World/Cosmology.md",
+    "Forgotten Realms/World/Great Wheel Cosmology.md",
+    "note 1.md",
     "Forgotten Realms/World/Crystal Sphere.md",
-    "Forgotten Realms/Campaigns/Lost Mine of Phandelver/Players/Character.md",
-    "Forgotten Realms/Campaigns/Lost Mine of Phandelver/Lost Mine of Phandelver.md",
-    "Forgotten Realms/Races/elves.md",
-    "Forgotten Realms/Races/gnomes.md",
+    "Forgotten Realms/World/Ethereal Plane.md",
+    "Forgotten Realms/World/Faerûn.md",
+    "Forgotten Realms/World/fundamental planes.md",
+    "Forgotten Realms/World/Inner Planes.md",
+    "Forgotten Realms/World/Multiverse.md",
+    "Forgotten Realms/World/Netherese.md",
+    "Forgotten Realms/World/NeverWinter Woods.md",
+    "Forgotten Realms/World/Outer Planes.md",
+    "Forgotten Realms/World/phlogiston.md",
+    "Forgotten Realms/World/Plane of Shadow.md",
+    "Forgotten Realms/World/Portals.md",
+    "Forgotten Realms/World/Prime Material Plane.md",
+    "Forgotten Realms/World/sun.md",
+    "Forgotten Realms/World/Sword Coast.md",
+    "Forgotten Realms/World/World Tree cosmology.md",
+    "Forgotten Realms/World/World Axis cosmology.md",
+    "Forgotten Realms/World/Wildspace.md",
+    "Forgotten Realms/World/West Faerûn.md",
+    "Forgotten Realms/World/Toril.md",
+    "Forgotten Realms/Campaigns/Lost Mine of Phandelver/World/Lore/Discovered/Regional Maps/Sword Coast Map.md",
     "z_Assets/z_Attachments/toril_continents.jpg",
     "z_Assets/z_Attachments/toril.jpg",
-    "Forgotten Realms/Races/Umber Hulks.md",
-    "Forgotten Realms/Races/Orcs.md",
-    "Forgotten Realms/Races/Illithids.md",
-    "Forgotten Realms/Races/Humans.md",
-    "Forgotten Realms/Races/Halflings.md",
-    "Forgotten Realms/Races/Dwarves.md",
     "Forgotten Realms/Races",
     "z_Assets/z_Attachments/Realmspace-2e.webp",
     "z_Assets/z_Attachments/realmspace.jpg",
     "z_Assets/z_Attachments/Realmspace-2e.jpg",
-    "Forgotten Realms/World/Netherese.md",
-    "Forgotten Realms/World/sun.md",
-    "Forgotten Realms/World/phlogiston.md",
-    "6.md",
-    "Forgotten Realms/World/Elemental Chaos.md",
-    "Forgotten Realms/World/fundamental planes.md",
-    "Forgotten Realms/World/World Axis cosmology.md",
-    "Forgotten Realms/World/Plane of Shadow.md",
     "Forgotten Realms/Magic",
     "Campaigns/Lost Mine of Phandelver/World/Lore/General/World/Universe",
     "Campaigns/Lost Mine of Phandelver/World/Lore/General/World/Farun",

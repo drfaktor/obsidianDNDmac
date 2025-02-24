@@ -32,6 +32,7 @@ Following the Spellplague, however, Maztica was sent to Abeir, the sibling world
 ### Continents
 
 ![[toril_continents.jpg|hsmall]]
+[[toril_continents.jpg|Full Size]]
 
 Projection of Toril showing all its known continents as of the late 14th century DR
 
